@@ -1,3 +1,3 @@
 $(function(){
-  $('ol li').css('color', 'red');
+  $('ol > li').css('color', 'red');
 });
